@@ -1,8 +1,8 @@
 # 1) Introducción a Spring Boot
 
-[Presentación del curso](Presentanción del curso.pdf)
+[Presentación del curso](Presentanción%20del%20curso.pdf)
 
-[Proyecto del curso](Proyecto Curso.pdf)
+[Proyecto del curso](Proyecto%20Curso.pdf)
 
 JPA (especificacion ) -> Hibernate (Implementacion)
 
