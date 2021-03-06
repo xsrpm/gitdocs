@@ -1,12 +1,8 @@
 # 1) Introducción a Spring Boot
 
-Presentación del curso
+[Presentación del curso](Presentanción del curso.pdf)
 
-[https://drive.google.com/file/d/1D0_r9t6Y1LM-x48cZIgn7X1-wRRrAOda/view?usp=sharing](https://drive.google.com/file/d/1D0_r9t6Y1LM-x48cZIgn7X1-wRRrAOda/view?usp=sharing)
-
-Proyecto del curso
-
-[https://drive.google.com/file/d/1MAjinSl99OF0mahWQROJsCtbGJ0SICAB/view?usp=sharing](https://drive.google.com/file/d/1MAjinSl99OF0mahWQROJsCtbGJ0SICAB/view?usp=sharing)
+[Proyecto del curso](Proyecto Curso.pdf)
 
 JPA (especificacion ) -> Hibernate (Implementacion)
 
