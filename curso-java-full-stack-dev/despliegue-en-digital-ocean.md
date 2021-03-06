@@ -2,7 +2,7 @@
 
 ### Guía Digital Ocean
 
-[https://drive.google.com/file/d/1L_9-WeP9SNBYu64J6GmpjRRjXkIWCB6s/view?usp=sharing](https://drive.google.com/file/d/1L_9-WeP9SNBYu64J6GmpjRRjXkIWCB6s/view?usp=sharing)
+[Despliegue en Digital Ocean](DigitalOcean.pdf)
 
 PREPARANDO LOS REQUERIMIENTOS
 
