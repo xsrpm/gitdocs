@@ -18,6 +18,8 @@ https://codebeautify.org/base64-to-image-converter
 
 ## **47:00 - Spring Security Introducción**
 
+[Token Postman](Token%20Postman.pdf)
+
 A partir de la versión Spring boot 2 se obliga que especifique la versión de Spring security jwt y oauth2 a usar.
 
 Spring security: seguridad en spring a nivel el proyecto.
@@ -88,6 +90,7 @@ com.xsrsys.repo
 
 IUsuarioRepo
 
+
 ### Links de interés
 
 base64-image.de
@@ -101,5 +104,3 @@ https://docs.apigee.com/api-platform/images/management-api/oauth-first-request.p
 https://github.com/auth0/angular2-jwt
 
 https://stackoverflow.com/questions/48506618/spring-security-oauth2-is-it-possible-to-change-table-and-column-names
-
-[Token Postman](https://drive.google.com/file/d/1Tatevg0sjiveSg90emJn_Jr2K_Zx93hz/view?usp=sharing)
