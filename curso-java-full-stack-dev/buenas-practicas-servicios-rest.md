@@ -1,8 +1,8 @@
 # 3) Buenas prácticas servicios REST
 
-Buenas prácticas en servicios REST
 
-[https://drive.google.com/file/d/13s4K1JIQfCU0oX3nfzTcgf4gM9n3ZGH6/view?usp=sharing](https://drive.google.com/file/d/13s4K1JIQfCU0oX3nfzTcgf4gM9n3ZGH6/view?usp=sharing)
+
+[Buenas prácticas en servicios REST](Buenas%20prácticas%20REST.pdf)
 
 ### Tarea 1
 
