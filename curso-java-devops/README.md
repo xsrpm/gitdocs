@@ -2,4 +2,4 @@
 
 1) [Introducción a DevOps y cultura organizativa](introduccion-devops-cultura.md)
 
-2) [Herramientas Agile (Jira, Trello) e Introducción a Docker](herramienta-agile-intro-docker)
+2) [Herramientas Agile (Jira, Trello) e Introducción a Docker](herramienta-agile-intro-docker.md)
